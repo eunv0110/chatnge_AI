@@ -8,3 +8,4 @@ poetry.lock
 01-1.정식개방데이터
 chat/model/
 chat/data/감성대화
+Storage/
